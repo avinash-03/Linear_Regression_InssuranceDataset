@@ -1,4 +1,4 @@
-# Linear_Regression_InssuranceDataset
+# Insurance charges prediction using regression algorithm
 
 Health Insurance companies have a tough task at determining premiums for their customers. While the health care law in the United States does have some rules for the companies to follow to determine premiums, it’s really up to the companies on what factor/s they want to hold more weightage to.
 
